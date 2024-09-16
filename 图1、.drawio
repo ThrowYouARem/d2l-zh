@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-09-16T03:12:54.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.6.4" etag="1xI3GRnn9YZ2axoeiYGP" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-16T03:17:57.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="8AxOCkkvdWO7vZPC1SiZ" version="24.6.4" type="github">
   <diagram name="第 1 页" id="jeupgD6qBv9d3noOoOZq">
-    <mxGraphModel>
+    <mxGraphModel dx="572" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nOECGkK9NUSo5TElfOLP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="1" source="nOECGkK9NUSo5TElfOLP-1" target="nOECGkK9NUSo5TElfOLP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nOECGkK9NUSo5TElfOLP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="1" source="nOECGkK9NUSo5TElfOLP-1" target="nOECGkK9NUSo5TElfOLP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nOECGkK9NUSo5TElfOLP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="1" source="nOECGkK9NUSo5TElfOLP-1" target="nOECGkK9NUSo5TElfOLP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nOECGkK9NUSo5TElfOLP-1" value="红外探测预处理技术" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="296" y="110" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nOECGkK9NUSo5TElfOLP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="1" source="nOECGkK9NUSo5TElfOLP-2" target="nOECGkK9NUSo5TElfOLP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nOECGkK9NUSo5TElfOLP-2" value="空域噪声平滑" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="176" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nOECGkK9NUSo5TElfOLP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="1" source="nOECGkK9NUSo5TElfOLP-3" target="nOECGkK9NUSo5TElfOLP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nOECGkK9NUSo5TElfOLP-3" value="变换域噪声滤波" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nOECGkK9NUSo5TElfOLP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#736CA8;fontColor=default;" edge="1" parent="1" source="nOECGkK9NUSo5TElfOLP-4" target="nOECGkK9NUSo5TElfOLP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nOECGkK9NUSo5TElfOLP-4" value="时间域背景抑制" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="532" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nOECGkK9NUSo5TElfOLP-8" value="邻域平均法&lt;div&gt;中值滤波法&lt;/div&gt;&lt;div&gt;维纳滤波法&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="176" y="260" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nOECGkK9NUSo5TElfOLP-9" value="理想低通滤波&lt;div&gt;巴特沃斯低通滤波&lt;/div&gt;&lt;div&gt;指数低通滤波&lt;/div&gt;&lt;div&gt;小波分解&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="354" y="260" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nOECGkK9NUSo5TElfOLP-10" value="图像差分&lt;div&gt;累加平均&lt;/div&gt;&lt;div&gt;中值滤波&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="532" y="260" width="120" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
