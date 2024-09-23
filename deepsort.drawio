@@ -7,7 +7,7 @@
         <mxCell id="Y0qxOK-AxX7gvibJEH6--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="jGW_U6NvGApJUAMfFt3g-1" target="Y0qxOK-AxX7gvibJEH6--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jGW_U6NvGApJUAMfFt3g-1" value="轨迹" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="jGW_U6NvGApJUAMfFt3g-1" value="跟踪轨迹" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="180" y="180" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y0qxOK-AxX7gvibJEH6--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="Y0qxOK-AxX7gvibJEH6--2" target="Y0qxOK-AxX7gvibJEH6--6">
