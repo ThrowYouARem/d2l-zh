@@ -16,6 +16,9 @@
         <mxCell id="6Rw39WzhOwX6LZSCMEJf-13" value="Res Block" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="110" y="199" width="200" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="6yiE1YvJ_uJA3wiCjWNe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="6Rw39WzhOwX6LZSCMEJf-14" target="6yiE1YvJ_uJA3wiCjWNe-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6Rw39WzhOwX6LZSCMEJf-14" value="Res Block" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="110" y="229" width="200" height="20" as="geometry" />
         </mxCell>
@@ -166,11 +169,14 @@
         <mxCell id="6yiE1YvJ_uJA3wiCjWNe-8" value="P3 Detector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="380" y="333.5" width="130" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="6yiE1YvJ_uJA3wiCjWNe-9" value="P4 Detector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="6yiE1YvJ_uJA3wiCjWNe-9" value="P4 Detector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="380" y="453.5" width="130" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="6yiE1YvJ_uJA3wiCjWNe-10" value="P5 Detector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="6yiE1YvJ_uJA3wiCjWNe-10" value="P5 Detector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="380" y="573.5" width="130" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="6yiE1YvJ_uJA3wiCjWNe-16" value="P2 Detector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;dashed=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="380" y="213.5" width="130" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
