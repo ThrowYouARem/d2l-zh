@@ -33,7 +33,7 @@
             <mxPoint x="-350" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="itF--j5dPZeMYPYClsAV-19" value="Conv" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="itF--j5dPZeMYPYClsAV-8">
+        <mxCell id="itF--j5dPZeMYPYClsAV-19" value="Conv&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: wrap; background-color: transparent;&quot;&gt;×2&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="itF--j5dPZeMYPYClsAV-8">
           <mxGeometry x="0.1638" y="-1" relative="1" as="geometry">
             <mxPoint y="13" as="offset" />
           </mxGeometry>
@@ -44,7 +44,7 @@
             <mxPoint x="-350" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="itF--j5dPZeMYPYClsAV-20" value="Conv" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="itF--j5dPZeMYPYClsAV-10">
+        <mxCell id="itF--j5dPZeMYPYClsAV-20" value="Conv&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: wrap; background-color: transparent;&quot;&gt;×2&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="itF--j5dPZeMYPYClsAV-10">
           <mxGeometry x="-0.1349" relative="1" as="geometry">
             <mxPoint y="11" as="offset" />
           </mxGeometry>
@@ -61,18 +61,18 @@
             <mxPoint x="-170" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="itF--j5dPZeMYPYClsAV-18" value="Conv" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="itF--j5dPZeMYPYClsAV-13">
+        <mxCell id="itF--j5dPZeMYPYClsAV-18" value="Conv2d" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="itF--j5dPZeMYPYClsAV-13">
           <mxGeometry x="0.0037" y="-3" relative="1" as="geometry">
             <mxPoint x="-5" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="itF--j5dPZeMYPYClsAV-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-240" y="439" as="sourcePoint" />
-            <mxPoint x="-170" y="439" as="targetPoint" />
+            <mxPoint x="-240" y="479.62" as="sourcePoint" />
+            <mxPoint x="-170" y="479.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="itF--j5dPZeMYPYClsAV-24" value="Conv" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="itF--j5dPZeMYPYClsAV-15">
+        <mxCell id="itF--j5dPZeMYPYClsAV-24" value="Conv2d" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="itF--j5dPZeMYPYClsAV-15">
           <mxGeometry x="0.0476" y="3" relative="1" as="geometry">
             <mxPoint x="-7" y="4" as="offset" />
           </mxGeometry>
