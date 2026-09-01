@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="kCk7Gp-X1N57wrKXS4wZ">
-    <mxGraphModel>
+    <mxGraphModel dx="2798" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bM2QdcP9xNqjXS6REZLu-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="毕业设计 14周" vertex="1">
+          <mxGeometry height="40" width="150" x="-807" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bM2QdcP9xNqjXS6REZLu-4" edge="1" parent="1" source="bM2QdcP9xNqjXS6REZLu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=16;" target="bM2QdcP9xNqjXS6REZLu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bM2QdcP9xNqjXS6REZLu-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="毕业设计 4周" vertex="1">
+          <mxGeometry height="40" width="150" x="-807" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bM2QdcP9xNqjXS6REZLu-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="微信小程序开发实训 32" vertex="1">
+          <mxGeometry height="40" width="200" x="-970" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bM2QdcP9xNqjXS6REZLu-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="容器技术实践 32" vertex="1">
+          <mxGeometry height="40" width="200" x="-1210" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bM2QdcP9xNqjXS6REZLu-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="Harmony开发课程设计 32" vertex="1">
+          <mxGeometry height="40" width="200" x="-1210" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="bM2QdcP9xNqjXS6REZLu-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="Android企业开发实训 32" vertex="1">
+          <mxGeometry height="40" width="200" x="-970" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="bM2QdcP9xNqjXS6REZLu-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="大数据分析与可视化实训 32" vertex="1">
+          <mxGeometry height="40" width="200" x="-690" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bM2QdcP9xNqjXS6REZLu-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="企业级互联网开发实训 32" vertex="1">
+          <mxGeometry height="40" width="200" x="-690" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="bM2QdcP9xNqjXS6REZLu-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="微信小程序开发实训 32" vertex="1">
+          <mxGeometry height="40" width="200" x="-450" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bM2QdcP9xNqjXS6REZLu-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="微信小程序开发实训 32" vertex="1">
+          <mxGeometry height="40" width="200" x="-450" y="320" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
