@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="kCk7Gp-X1N57wrKXS4wZ">
-    <mxGraphModel dx="2920" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3143" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,7 +107,7 @@
         <mxCell id="OUJexQ5fdxfrqfLwD9Wc-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="高级语言程序设计(c) 64" vertex="1">
           <mxGeometry height="40" width="210" x="-809" y="1359" as="geometry" />
         </mxCell>
-        <mxCell id="OUJexQ5fdxfrqfLwD9Wc-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="高级语言程序设计(c) 32" vertex="1">
+        <mxCell id="OUJexQ5fdxfrqfLwD9Wc-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="高级语言程序(c)课程设计 32" vertex="1">
           <mxGeometry height="40" width="210" x="-1099" y="1359" as="geometry" />
         </mxCell>
         <mxCell id="OUJexQ5fdxfrqfLwD9Wc-15" edge="1" parent="1" source="OUJexQ5fdxfrqfLwD9Wc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="OUJexQ5fdxfrqfLwD9Wc-14">
